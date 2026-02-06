@@ -24,14 +24,6 @@
 **AI Engineer & Data Science Graduate Student** with **3+ years of experience** building and deploying **LLM-powered systems**, including **RAG pipelines**, **LoRA / QLoRA / RLHF fine-tuning**, and **multi-agent orchestration**.  
 Experienced in **production LLMOps**, **predictive analytics**, and **distributed systems**, with domain expertise across **healthcare, finance, supply chain, and enterprise automation**.
 
----
-
-## 🔬 Currently Working On
-- 🧠 **Context Graph–based RAG**
-  - Entity + memory graphs for multi-hop reasoning and grounded generation
-- 🔁 **Recursive / Iterative Language Models**
-  - Self-refinement and verification loops
-- 🤖 **Multi-Agent LLM Systems**
 
 
 ## 🛠️ Technical Skills (All Covered)
