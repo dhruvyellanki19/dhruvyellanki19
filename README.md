@@ -32,7 +32,6 @@ Experienced in **production LLMOps**, **predictive analytics**, and **distribute
 - 🔁 **Recursive / Iterative Language Models**
   - Self-refinement and verification loops
 - 🤖 **Multi-Agent LLM Systems**
-  - Planner, retriever, executor, validator, compliance agents
 
 
 ## 🛠️ Technical Skills (All Covered)
