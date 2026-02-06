@@ -2,8 +2,6 @@
 <!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Sai%20Dhruv%20Yellanki&fontSize=44&fontAlignY=40&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20Context%20Graphs%20%7C%20Agents&descAlignY=75" />
-
 <p>
   <a href="https://www.linkedin.com/in/saidhruvyellanki/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
