@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Sai%20Dhruv%20Yellanki&fontAlign=50&fontAlignY=50&desc=AI%20Engineer%20%7C%20LLM%20Engineering%20%7C%20RAG%20%7C%20Multi-Agent%20Systems&descAlign=50&descAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Sai%20Dhruv%20Yellanki&fontAlign=50&fontAlignY=50&desc=AI%20Engineer%20%7C%20ML%20Engineering%&descAlign=50&descAlignY=80" />
 
 <p>
   <a href="https://www.linkedin.com/in/saidhruvyellanki/">
@@ -69,13 +69,7 @@ Experienced in **production LLMOps**, **predictive analytics**, and **distribute
 
 ---
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhruvyellanki19&show_icons=true&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvyellanki19&layout=compact"/>
-</div>
 
----
 
 ## 🤝 Let’s Connect
 I’m actively interested in **AI Engineer / ML Engineer / Applied Scientist** roles focused on **LLMs, RAG, and Agentic AI**.
