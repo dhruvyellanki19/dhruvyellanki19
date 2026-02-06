@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Sai%20Dhruv%20Yellanki&fontAlign=50&fontAlignY=50&desc=AI%20Engineer%20%7C%20LLM%20Engineering%20%7C%20RAG%20%7C%20Multi-Agent%20Systems&descAlign=50&descAlignY=80" />
@@ -138,3 +136,6 @@ I’m actively interested in **AI Engineer / ML Engineer / Applied Scientist** r
 
 📍 LinkedIn: https://www.linkedin.com/in/saidhruvyellanki/  
 📧 Email: dhruvsai@umd.edu
+
+
+
