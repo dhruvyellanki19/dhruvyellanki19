@@ -38,7 +38,7 @@ Experienced in **production LLMOps**, **predictive analytics**, and **distribute
 
 ### 🧑‍💻 Programming & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,mongodb,redis" />
 </p>
 
 ### 🧠 Machine Learning & Deep Learning
