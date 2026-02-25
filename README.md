@@ -26,7 +26,7 @@ Experienced in **production LLMOps**, **predictive analytics**, and **distribute
 
 
 
-## 🛠️ Technical Skills (All Covered)
+## 🛠️ Technical Skills 
 
 ### 🧑‍💻 Programming & Data
 <p>
